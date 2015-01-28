@@ -1,6 +1,6 @@
 # Microfiber
 
-A simple javascript fiber module using es6 generators and Promises.
+A simple proof-of-concept javascript fiber module using es6 generators and Promises.
 
 ## Example usage
 
@@ -45,3 +45,7 @@ scheduler.run().then(
 	}
 );
 ```
+
+## License
+
+MIT.
