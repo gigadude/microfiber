@@ -1,0 +1,25 @@
+{
+  "name": "microfiber",
+  "version": "1.0.0",
+  "description": "Simple generator-based fiber module",
+  "main": "microfiber.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gigadude/microfiber.git"
+  },
+  "keywords": [
+    "javascript",
+    "generator",
+    "fiber",
+    "coroutine"
+  ],
+  "author": "Gigadude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gigadude/microfiber/issues"
+  },
+  "homepage": "https://github.com/gigadude/microfiber"
+}
